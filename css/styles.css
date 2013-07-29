@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+ #map-canvas {
+ 	height: 100%;
+ 	width: 100%;
+ }
+
+#contenidoMap{
+	background-color: yellow;
+}
+
+#contenidoMap h2{
+	font-size: 2em;
+	color:red;
+	text-align: center;
+}
