@@ -62,7 +62,7 @@ function initialize() {
 }
 
 
-// FUNCION PARA CARGAR SCRIPTS ASINCRONICAMENTE
+// FUNCION PARA CARGAR SCRIPTS ASINCRONICAMENTE. Copiar API sin <> desde = hasta &
 
 function loadScript() {
   var script = document.createElement('script');

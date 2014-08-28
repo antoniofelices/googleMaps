@@ -5,7 +5,7 @@ Google Map modo Roadmap en b/n, con controlador de zoom, con Pan control, sin pe
 ## Necesito
 
 1. api_key. Para optenerla: [Key](https://developers.google.com/maps/documentation/javascript/tutorial#api_key)
-2. Copiar la api_key donde dice <AQUI-API> del archivo googleMap.js
+2. Copiar la api_key donde dice <AQUI-API> del archivo googleMap.js. Sin <> y sin espacios blancos
 3. Usar `<!doctype html>` en el archivo HTML
 
 Mirar: [Documentacion Google](https://developers.google.com/maps/documentation/javascript/tutorial)
